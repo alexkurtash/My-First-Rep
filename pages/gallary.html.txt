@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Галерея</title>
+</head>
+<body>
+    <h1>Галерея</h1>
+    <img src="../photo/concert.jpg" alt="Виступ Олександра Курташа" width="300">
+    <img src="../photo/band.jpg" alt="Гурт Lemberg Hills" width="300">
+    <a href="../index.html">Назад</a>
+</body>
+</html>

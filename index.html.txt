@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Олександр Курташ</title>
+</head>
+<body>
+    <h1>Олександр Курташ – музикант, засновник гурту Lemberg Hills</h1>
+    <img src="photo/kurtash.jpg" alt="Олександр Курташ" width="300">
+    
+    <h2>Про мене</h2>
+    <p>Я – Олександр Курташ, музикант і виконавець зі Львова. Засновник і учасник гурту <strong>Lemberg Hills</strong>, що поєднує елементи блюзу, фолку та рок-н-ролу.</p>
+    
+    <h2>Освіта</h2>
+    <p>Маю вищу музичну освіту, що дозволяє мені створювати якісну музику та експериментувати зі звучанням.</p>
+    
+    <h2>Про гурт Lemberg Hills</h2>
+    <p>Гурт <strong>Lemberg Hills</strong> народився у Львові та створює музику, що поєднує душевну лірику, атмосферний блюз і драйвовий рок-н-рол.</p>
+    
+    <h2>Посилання</h2>
+    <ul>
+        <li><a href="pages/contact.html">Контакти</a></li>
+        <li><a href="pages/gallery.html">Галерея</a></li>
+        <li><a href="https://www.youtube.com/@kurtash_music" target="_blank">YouTube</a></li>
+    </ul>
+</body>
+</html>
